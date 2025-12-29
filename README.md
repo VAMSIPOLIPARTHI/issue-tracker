@@ -100,5 +100,4 @@ Given more time, the following improvements would be implemented:
 
 ---
 
-**The live version of the project is available at https://issue-tracker-flax-two.vercel.app/
-**.
+The live version of the project is available at https://issue-tracker-flax-two.vercel.app/
