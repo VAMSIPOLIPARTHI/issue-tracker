@@ -1,8 +1,4 @@
-Below is a **clean, professional README section** you can **directly paste** into your project’s `README.md`.
-It’s written in a way that **interviewers, evaluators, and recruiters** like 👍
-Clear, honest, and technical—but not overcomplicated.
 
----
 
 # 📘 Project Design & Decisions
 
